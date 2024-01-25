@@ -6,7 +6,7 @@ Meus interesses são voltados ao mundo da programação, com foco em desenvolvim
 
 Também possuo conhecimento básico em C, Javascript, Python e ReactJs.
 
-Além disso, tenho formação técnica na área de Redes de Computadores pelo Instituo Federal do Ceará 🖥️.
+Além disso, tenho formação técnica na área de Redes de Computadores pelo Instituto Federal do Ceará 🖥️.
 
 Skills:
 Trabalho em Equipe | Desenvolvimento Back-end | Redes de Computadores
