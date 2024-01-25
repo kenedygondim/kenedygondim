@@ -10,3 +10,5 @@ Além disso, tenho formação técnica na área de Redes de Computadores pelo In
 
 Skills:
 Trabalho em Equipe | Desenvolvimento Back-end | Redes de Computadores
+
+Conecte-se comigo no LinkedIn: https://www.linkedin.com/in/kenedy-alves-gondim-01116326b/
