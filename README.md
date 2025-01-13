@@ -2,9 +2,9 @@
 
 Meu nome é Kenedy Alves. Atualmente estou no terceiro semestre do curso de Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo. 🏫
 
-Meus interesses são voltados ao mundo da programação, com foco em desenvolvimento Back-end 👩‍💻. Nos últimos meses tenho dedicado meus estudos principalmente nas tecnologias Java, Spring Boot, MySQL, AWS e Docker. 
+Meus interesses são voltados ao mundo da programação, com foco em desenvolvimento Back-end 👩‍💻. Nos últimos meses tenho dedicado meus estudos principalmente nas tecnologias Java, Spring Boot, SGBDs Relacionais, AWS e Docker. 
 
-Também possuo conhecimento básico em C, Javascript, Python e ReactJs.
+Também possuo conhecimento básicos em .NET, Javascript e Python.
 
 Além disso, tenho formação técnica na área de Redes de Computadores pelo Instituto Federal do Ceará 🖥️.
 
