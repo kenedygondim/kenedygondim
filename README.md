@@ -1,10 +1,8 @@
-### Olá 👋, Bem-vindo(a)!
+### Olá, Bem-vindo(a)!
 
-Meu nome é Kenedy Alves. Atualmente estou no terceiro semestre do curso de Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo. 🏫
+Meu nome é Kenedy Gondim. Atualmente estou no quinto semestre do curso de Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo. 🏫
 
-Meus interesses são voltados ao mundo da programação, com foco em desenvolvimento Back-end 👩‍💻. Nos últimos meses tenho dedicado meus estudos principalmente nas tecnologias Java, Spring Boot, SGBDs Relacionais, AWS e Docker. 
-
-Também possuo conhecimento básicos em .NET, Javascript e Python.
+Meus interesses são voltados ao mundo da programação, com foco em desenvolvimento Back-end. Nos últimos meses tenho dedicado meus estudos principalmente nas tecnologias Java, Spring Boot, Bancos Relacionais, Oracle Cloud e Kubernetes. 
 
 Além disso, tenho formação técnica na área de Redes de Computadores pelo Instituto Federal do Ceará 🖥️.
 
