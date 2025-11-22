@@ -14,4 +14,4 @@ Trabalho em Equipe | Desenvolvimento Back-end | Redes de Computadores
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kenedygondim&layout=compact&langs_count=8&theme=radical"/>
 
 
-Conecte-se comigo no LinkedIn: https://www.linkedin.com/in/kenedy-alves-gondim-01116326b/
+Conecte-se comigo no LinkedIn: https://www.linkedin.com/in/kenedygondim/
